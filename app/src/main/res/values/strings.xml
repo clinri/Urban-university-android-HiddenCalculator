@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HiddenCalculator</string>
+    <string name="text_calculator">Калькулятор</string>
+    <string name="text_transfer_data">Передать данные</string>
 </resources>
